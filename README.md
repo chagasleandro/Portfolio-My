@@ -25,7 +25,7 @@ Projeto desenvolvido com HTML, CSS e JAVASCRIPT meu portfolio onde mostro meus c
 * Baixar o NPM e o Node
 
 * Abrir o projeto em uma IDE de preferência ou no terminal do sistema operacional
-
+```bash
 # Clone this project
 $ git clone https://github.com/chagasleandro/Portfolio-My.git
 # Access

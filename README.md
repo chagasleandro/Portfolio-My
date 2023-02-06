@@ -32,11 +32,6 @@ $ git clone https://github.com/chagasleandro/Portfolio-My.git
 $ cd Portfolio-My
 # The server will initialize in the <[http://localhost:3000](http://127.0.0.1:5500/Portfolio-My/index.html#hero)>
 
-  * `npm start`
-
-  
-* Caso a aplicação rode normalmente, estará disponível em `localhost:3000`
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://portfolio-my-omega.vercel.app/)

@@ -1,6 +1,6 @@
 # Portfolio-My
 <p align="center">
-  <a href="#">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-my-omega.vercel.app/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -39,4 +39,4 @@ $ cd Portfolio-My
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://marvelous-hotteok-4c6c89.netlify.app/)
+Você pode visualizar o layout do projeto através [desse link](https://portfolio-my-omega.vercel.app/)

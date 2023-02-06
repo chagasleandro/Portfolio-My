@@ -30,6 +30,6 @@ Projeto desenvolvido com HTML, CSS e JAVASCRIPT meu portfolio onde mostro meus c
 $ git clone https://github.com/chagasleandro/Portfolio-My.git
 # Access
 $ cd Portfolio-My
-# The server will initialize in the <[http://localhost:3000](http://127.0.0.1:5500/Portfolio-My/index.html#hero)>
+# The server will initialize in the <(http://127.0.0.1:5500/Portfolio-My/index.html#hero)>
 
 

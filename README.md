@@ -3,7 +3,7 @@
   <a href="https://portfolio-my-omega.vercel.app/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 <p align="center">
@@ -32,6 +32,4 @@ $ git clone https://github.com/chagasleandro/Portfolio-My.git
 $ cd Portfolio-My
 # The server will initialize in the <[http://localhost:3000](http://127.0.0.1:5500/Portfolio-My/index.html#hero)>
 
-## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://portfolio-my-omega.vercel.app/)
